@@ -5,17 +5,17 @@
 
 ---
 
-## 🎯 Sobre o Projeto
-Este projeto de extensão tem como objetivo mitigar a vulnerabilidade cibernética de micro e pequenos empreendedores (focando em escritórios de contabilidade, advocacia e varejo). Através da aplicação de conceitos de Governança de TI, Redes e Segurança da Informação, o projeto visa democratizar práticas corporativas de proteção de dados, garantindo a Continuidade do Negócio (*Business Continuity*).
+ Sobre o Projeto
+Este projeto de extensão tem como objetivo mitigar a vulnerabilidade cibernética de micro e pequenos empreendedores (focando em escritórios de contabilidade). Através da aplicação de conceitos de Governança de TI, Redes e Segurança da Informação, o projeto visa democratizar práticas corporativas de proteção de dados, garantindo a Continuidade do Negócio.
 
-## 📺 Apresentação em Vídeo
+ Apresentação em Vídeo
 Clique no link abaixo para assistir à apresentação completa do projeto, onde explico a metodologia, a execução e os resultados alcançados:
 
-👉 **[COLE AQUI O LINK DO SEU VÍDEO DO YOUTUBE OU DRIVE]**
+ **[COLE AQUI O LINK DO SEU VÍDEO DO YOUTUBE OU DRIVE]**
 
 ---
 
-## 📂 Estrutura de Arquivos (Evidências e Entregáveis)
+Estrutura de Arquivos (Evidências e Entregáveis)
 Neste repositório, você encontrará toda a documentação e evidências geradas durante a execução do projeto:
 
 *   📄 **`CARTILHA.pdf`**: Material educativo entregue aos participantes com boas práticas de higiene cibernética.
