@@ -18,10 +18,10 @@ Clique no link abaixo para assistir à apresentação completa do projeto, onde 
 Estrutura de Arquivos (Evidências e Entregáveis)
 Neste repositório, você encontrará toda a documentação e evidências geradas durante a execução do projeto:
 
-*   📄 **`CARTILHA.pdf`**: Material educativo entregue aos participantes com boas práticas de higiene cibernética.
-*   📄 **`CHECKLIST DE MESA.pdf`**: Ferramenta prática para o dia a dia dos escritórios visando a proteção de dados.
-*   📄 **`FORMULARIO.pdf`**: Evidência do *Assessment* (diagnóstico) aplicado para medir o nível de maturidade em segurança.
-*   📊 **`apresentacao.pptx`**: Slides utilizados durante o *Workshop* Consultivo.
+*    **`CARTILHA.pdf`**: Material educativo entregue aos participantes com boas práticas de higiene cibernética.
+*    **`CHECKLIST DE MESA.pdf`**: Ferramenta prática para o dia a dia dos escritórios visando a proteção de dados.
+*    **`FORMULARIO.pdf`**: Evidência do *Assessment* (diagnóstico) aplicado para medir o nível de maturidade em segurança.
+*    **`apresentacao.pptx`**: Slides utilizados durante o *Workshop* Consultivo.
 
 ---
 *Projeto desenvolvido como requisito acadêmico, unindo teoria de Sistemas de Informação com a prática de mercado em infraestrutura de TI.*
