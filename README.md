@@ -1,4 +1,4 @@
-# 🛡️ Projeto de Extensão: Cibersegurança e Proteção de Dados para Pequenos Empreendedores
+# Projeto de Extensão: Cibersegurança e Proteção de Dados para Pequenos Empreendedores
 
 **Disciplina:** Sistemas de Informação e Sociedade
 **Autor:** Gustavo Campos (Analista de Infraestrutura e Redes)
